@@ -1,0 +1,49 @@
+@CHARSET "UTF-8
+
+   html,*{
+      margin:0px;
+	  padding: 0px;
+	  font-family:"宋体";
+	  box-sizing:border-box;
+
+   }
+     a{
+      text-decoration: none;
+      }
+   .boxs{
+    max-width: 500px;
+    margin: 0 auto;
+   	width: 100%;
+   	height: 700px;
+  	}
+  	.boxs .header{
+  		width:100%;
+  		height:100px;
+  	}
+  	.boxs .header img{
+  	width:100%;
+  	height:100%;
+  	}
+  	.layui-elem-field legend{
+  	font-size:14px;
+  	}
+  	.layui-colla-content{
+  	padding:10px;}
+  	
+
+  	.layui-btnyb{
+  	width:100%;
+  	height:60px;
+  	background-image:url("../../zajindan/images/1.jpg");
+    background-size:100% 60px;
+  	
+  	}
+  	
+  	
+  	
+  	
+  	.layui-unselect{
+  	  width:100%;
+  	
+  	
+  	}
